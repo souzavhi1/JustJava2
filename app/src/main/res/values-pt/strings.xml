@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" >
+    <string name="app_name">JustJava2</string>
+    <string name="minimum_message">A Quantidade minima é 1</string>
+    <string name="name_field">Nome</string>
+    <string name="order_button">Pedido</string>
+    <string name="order_summary_1">Nome: <xliff:g id="name" example="Mary">%s</xliff:g></string>
+    <string name="order_summary_2">Adicionado Chantilly? <xliff:g id="bool" example="true">%b</xliff:g></string>
+    <string name="order_summary_3">Adicionado Chocolate? <xliff:g id="bool" example="true">%b</xliff:g></string>
+    <string name="order_summary_4">Quantidade: <xliff:g id="quantity" example="10">%d</xliff:g></string>
+    <string name="order_summary_5">Total: R$ <xliff:g id="total" example="$10.00">%d</xliff:g></string>
+    <string name="order_summary_6">Obrigado</string>
+    <string name="quantity_title">Quantidade</string>
+    <string name="subject_email">Pedido do JustJava para <xliff:g id="name" example="Mary">%s</xliff:g></string>
+    <string name="toppings_1">Chantilly</string>
+    <string name="toppings_2">Chocolate</string>
+    <string name="toppings_title">Cobertura</string>
+</resources>
